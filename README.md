@@ -4,12 +4,12 @@ This is the official TMS Client Mod List. Mods are specifically for the Fabric f
 
 
 ## Current Mod List
-- ItemScroller - [```itemscroller-fabric-1.15.2-0.15.0-dev.20200212.183513.jar```](https://masa.dy.fi/mcmods/client_mods/)
-- Litematica - [```litematica-fabric-1.15.2-0.0.0-dev.20200302.233247.jar```](https://masa.dy.fi/mcmods/client_mods/)
-- MaLiLib - <i>(required for Litematica)</i> [```malilib-fabric-1.15.2-0.10.0-dev.20+arne.4.jar```](https://masa.dy.fi/mcmods/client_mods/) 
-- MiniHUD - [```minihud-fabric-1.15.2-0.19.0-dev.20200121.203515.jar```](https://masa.dy.fi/mcmods/client_mods/)
-- Tweakeroo - [```tweakeroo-fabric-1.15.2-0.10.0-dev.20200302.214816.jar```](https://masa.dy.fi/mcmods/client_mods/)
-- ModMenu - [```modmenu-1.10.1+build.30.jar```](https://www.curseforge.com/minecraft/mc-mods/modmenu/files)
+- ItemScroller - <a href="https://masa.dy.fi/mcmods/client_mods/" target="_blank">itemscroller-fabric-1.15.2-0.15.0-dev.20200212.183513.jar</a>
+- Litematica - <a href="https://masa.dy.fi/mcmods/client_mods/" target="_blank">litematica-fabric-1.15.2-0.0.0-dev.20200302.233247.jar</a>
+- MaLiLib - <i>(required for Litematica)</i> <a href="https://masa.dy.fi/mcmods/client_mods/" target="_blank">malilib-fabric-1.15.2-0.10.0-dev.20+arne.4.jar</a>
+- MiniHUD - <a href="https://masa.dy.fi/mcmods/client_mods/" target="_blank">minihud-fabric-1.15.2-0.19.0-dev.20200121.203515.jar</a>
+- Tweakeroo - <a href="https://masa.dy.fi/mcmods/client_mods/" target="_blank">tweakeroo-fabric-1.15.2-0.10.0-dev.20200302.214816.jar</a>
+- ModMenu - <a href="https://www.curseforge.com/minecraft/mc-mods/modmenu/files" target="_blank">modmenu-1.10.1+build.30.jar</a>
 
 ## Requirements
 - Fabric Installer : https://fabricmc.net/use/
