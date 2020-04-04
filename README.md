@@ -1,4 +1,4 @@
-# TMS - Fabric Client Mod List
+# TMS - Fabric Client Mod List [![HitCount](http://hits.dwyl.com/{username}/MC-TMS/client-mod-list.svg)](http://hits.dwyl.com/{username}/MC-TMS/client-mod-list)
 
 This is the official TMS Client Mod List. Mods are specifically for the Fabric framework.
 
