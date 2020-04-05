@@ -1,6 +1,6 @@
-# TMS - Fabric Client Mod List [![HitCount](http://hits.dwyl.com/{username}/MC-TMS/client-mod-list.svg)](http://hits.dwyl.com/{username}/MC-TMS/client-mod-list)
+# MTS - Fabric Client Mod List [![HitCount](http://hits.dwyl.com/{username}/MC-MTS/client-mod-list.svg)](http://hits.dwyl.com/{username}/MC-MTS/client-mod-list)
 
-This is the official TMS Client Mod List. Mods are specifically for the Fabric framework.
+This is the official MTS Client Mod List. Mods are specifically for the Fabric framework.
 
 
 ## Current Mod List
@@ -15,7 +15,7 @@ This is the official TMS Client Mod List. Mods are specifically for the Fabric f
 - Fabric Installer : https://fabricmc.net/use/
 
 ## How to install?
-- Download the latest version of this modpack [here](https://github.com/MC-TMS/client-mod-list/releases/latest) (Looking for older versions? click on the <i><b>release</b></i> tab). 
+- Download the latest version of this modpack [here](https://github.com/MC-MTS/client-mod-list/releases/latest) (Looking for older versions? click on the <i><b>release</b></i> tab). 
 - Extract the ZIP or RAR file.
 - Copy the extracted <i><b>mods</b></i> folder.
 - Paste into the <i><b>.minecraft</b></i> folder which can be found at ```C:\Users\USERNAME\AppData\Roaming\.minecraft\ ```
